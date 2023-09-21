@@ -1,7 +1,7 @@
 ### Hi there, i am Samuel 👋
 
 - 🔭 I’m currently working on front-end
-- 🌱 I’m currently learning HTML, CSS
+- 🌱 I’m currently learning HTML and CSS
 - 🤔 I’m looking for help with Javascript and Python
 - 📫 How to reach me: samuelribeirocardoso15@gmail.com
 
