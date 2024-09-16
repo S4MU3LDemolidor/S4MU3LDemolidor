@@ -1,8 +1,7 @@
 ### Hi there, i am Samuel 👋
 
-- 🔭 I’m currently working to be a Full-Stack
-- 🌱 I’m currently learning Javascript
-- 🤔 I’m looking for help with Javascript and Typescript
+- 🔭 I’m currently working to be a Data Analyst
+- 🌱 I’m currently learning SQL
 - 📫 How to reach me: samuelribeirocardoso15@gmail.com
 
   <div id="skills">
